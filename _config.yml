@@ -1,12 +1,7 @@
 title: My awesome blog!
 author: Katu
 email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-I heard the bells on Christmas Day
-Their old, familiar carols play,
-And wild and sweet
-The words repeat
-Of peace on earth, good-will to men!
+description: > # this means to ignore newlines until "baseurl: "I heard the bells on Christmas Day"
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
